@@ -1,0 +1,81 @@
+<idoctype html>
+<html>
+<head>
+<title> AGRICULTURE </title>
+</head>
+<body>
+<h1> Agricultural pollution </h1>
+<p> Agricultural pollution refers to biotic and abiotic byproducts of farming practices that result in contamination or degradation of the environment and surrounding ecosystems, and/or cause injury to humans and their economic interests. The pollution may come from a variety of sources,ranging from point source water pollution to more defuse, landscape-level causes, also known as non-point source pollution and air pollution. Once in the environment theses pollutants can have both direct effects in surrounding ecosystems.
+ <br> <hr>
+<img src="C:\Users\rania\OneDrive\Pictures\Saved Pictures\R.JPEG File"><br>
+Two types of sources </p>
+<ol>
+<li> abiotic sources</li>
+<li> biotic sources </li>
+</ol>
+<h2> Abiotic sources </h2>
+<ul>
+<li> pesticides </li>
+<li> fertilizers </li>
+<li> radioactive materials </li>
+</ul>
+<h2> biotic sources </h2>
+<ul>
+<li> greenhouse gases </li>
+<li> biopesticides </li>
+<li> genetically modified organisms </li>
+</ul>
+<h5> Abiotic sources </h5>
+<dl>
+<dt > Pesticides </dt> 
+<dd> pesticides or herbicide are applied to agricultural land to control pests the disrupt crop production </dd>
+</dl>
+<dl> 
+<dt> fertilizers </dt>
+<dd> They are beneficial for plant growth, they can also disrupt Natural nutrient and mineral biogeochemical cycle </dd>
+</dl>
+<dl>
+<dt> Radioactive materials </dt>
+<dd> it increases on the risk to human health from radionuclide contamination of foods </dd>
+</dl>
+<h5> biotic sources </h5>
+<dl>
+<dt> greenhouse gases </dt>
+<dd> anthropogenic greenhouse gases come directly or indirectly from the world's livestock </dd>
+</dl>
+<dl>
+<dt> biopesticides </dt>
+<dd> it is dervided from natural materials.</dd>
+</dl>
+<dl>
+<dt> genetically modified organisms </dt>
+<dd>  genetical contamination of native plant species through hybridization </dd>
+<dl>
+
+<table style="border:1px solid blue">
+<tr>
+<th style="border:2px solid black"> S.NO </th>
+<th style="border:2px solid black"> gases </th>
+<th style="border:2px solid black"> percentage </th>
+</tr>
+<tr>
+<td style="border:2px solid black"> 1 </th>
+<td style="border:2px solid black"> oxygen </th>
+<td style="border:2px solid black"> 21 </th>
+</tr>
+<tr>
+<td style="border:2px solid black"> 2 </th>
+<td style="border:2px solid black"> nitrogen </th>
+<td style="border:2px solid black"> 78 </th>
+</tr>
+<tr>
+<td style="border:2px solid black"> 3 </th>
+<td style="border:2px solid black"> co2 </th>
+<td style="border:2px solid black"> 0.02 </th>
+</tr><br><br><br>
+<a href="google.com"> google </a>
+<a href="yahoo.com"> yahoo </a>
+</body>
+</html>
+
+ 
